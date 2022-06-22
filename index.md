@@ -8,13 +8,9 @@ title: DREAM Project Site
 
 ## About Me
 
-BA Philosophy, minors in Psychology + Studio Art
+BA Philosophy, minors in Psychology + Studio Art, DePaul University, 2010-2014
 
-  DePaul University (2010-2014)
-
-MS Computer Science
-
-  DePaul University (2020-_2023_)
+MS Computer Science, DePaul University, 2020-_2023_
 
 ## About My Advisor
 
@@ -27,7 +23,8 @@ DePaul University, College of Computing and Digital Media (CDM)
 Security Vulnerabilities: Fuzzing
 
 Description:
-_coming soon_
+- _coming soon_
+- 
 
 Goals:
 - advance the existing fuzzing program 
