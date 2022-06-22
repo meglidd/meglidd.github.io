@@ -8,11 +8,9 @@ title: DREAM Project Site
 
 ## About Me
 
-BA Philosophy (2014)
+BA Philosophy, minors in Psychology + Studio Art (2010-2014)
 
-MS Computer Science (_2023_)
-
-for fun: cats, gardening, painting, baking
+MS Computer Science (2020-_2023_)
 
 ## About My Advisor
 
