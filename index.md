@@ -8,15 +8,19 @@ title: DREAM Project Site
 
 ## About Me
 
-My info goes here.
+BA Philosophy _2014_
+MS Computer Science _2023_
+
+for fun: cats, gardening, painting, baking
 
 ## About My Advisor
 
-Advisor info goes here.
+Professor Zhen Huang
+https://facsrv.cs.depaul.edu/zhuang28/
 
 ## About My Project
 
-Project description goes here.
+Security Vulnerabilities: Fuzzing
 
 [My Final Report](files/finalreport.pdf)
 
