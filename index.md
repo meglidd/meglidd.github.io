@@ -8,8 +8,9 @@ title: DREAM Project Site
 
 ## About Me
 
-BA Philosophy _2014_
-MS Computer Science _2023_
+BA Philosophy (2014)
+
+MS Computer Science (_2023_)
 
 for fun: cats, gardening, painting, baking
 
