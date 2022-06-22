@@ -8,9 +8,13 @@ title: DREAM Project Site
 
 ## About Me
 
-BA Philosophy, minors in Psychology + Studio Art, DePaul University (2010-2014)
+BA Philosophy, minors in Psychology + Studio Art
 
-MS Computer Science, DePaul University (2020-_2023_)
+  DePaul University (2010-2014)
+
+MS Computer Science
+
+  DePaul University (2020-_2023_)
 
 ## About My Advisor
 
