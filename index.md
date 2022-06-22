@@ -8,15 +8,19 @@ title: DREAM Project Site
 
 ## About Me
 
-BA Philosophy, minors in Psychology + Studio Art, DePaul University, 2010-2014
+MS Computer Science
+- DePaul University, 2020-_2023_
 
-MS Computer Science, DePaul University, 2020-_2023_
+BA Philosophy, minors in Psychology + Studio Art
+- DePaul University, 2010-2014
+
 
 ## About My Advisor
 
 [Professor Zhen Huang](https://facsrv.cs.depaul.edu/zhuang28/)
+- DePaul University, College of Computing and Digital Media (CDM)
 
-DePaul University, College of Computing and Digital Media (CDM)
+
 
 ## About My Project
 
