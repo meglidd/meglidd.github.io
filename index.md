@@ -27,8 +27,7 @@ BA Philosophy, minors in Psychology + Studio Art
 Security Vulnerabilities: Fuzzing
 
 Description:
-- _coming soon_
-- 
+- using AFL++, InvsCov, and another patch to more efficiently identify/capture secutirty vulnerabilities during the fuzzing stage.
 
 Goals:
 - advance the existing fuzzing program 
