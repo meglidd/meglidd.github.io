@@ -27,7 +27,7 @@ BA Philosophy, minors in Psychology + Studio Art
 Security Vulnerabilities: Fuzzing
 
 Description:
-- using AFL++, InvsCov, and another patch to more efficiently identify/capture secutirty vulnerabilities during the fuzzing stage.
+To attempt to develop a technique to efficiently identify security vulnerabilities using program fuzzing
 
 Goals:
 - advance the existing fuzzing program 
