@@ -27,7 +27,7 @@ BA Philosophy, minors in Psychology + Studio Art
 
 ## About My Project
 
-Analyzing Transition Time Between Category Bigrams in American Sign Language
+**Analyzing Transition Time Between Category Bigrams in American Sign Language**
 
 A B S T R A C T
 
