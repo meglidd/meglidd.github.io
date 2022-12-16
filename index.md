@@ -8,11 +8,9 @@ title: DREAM Project Site
 
 ## About Me
 
-MS Computer Science - Software Development
-- DePaul University, 2020-_2023_
+MS Computer Science [Software Development], DePaul University, 2020-_2023_
 
-BA Philosophy, minors in Psychology + Studio Art
-- DePaul University, 2010-2014
+BA Philosophy [minors in Psychology + Studio Art], DePaul University, 2010-2014
 
 
 ## About My Advisor
