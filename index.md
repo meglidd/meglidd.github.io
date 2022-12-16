@@ -17,11 +17,9 @@ BA Philosophy, minors in Psychology + Studio Art
 
 ## About My Advisor
 
-[Dr. Rosalee Wolfe](https://www.cdm.depaul.edu/Faculty-and-Staff/pages/faculty-info.aspx?fid=946/)
-- DePaul University, College of Computing and Digital Media (CDM)
+[Dr. Rosalee Wolfe](https://www.cdm.depaul.edu/Faculty-and-Staff/pages/faculty-info.aspx?fid=946/), DePaul University, College of Computing and Digital Media (CDM)
 
-[Dr. John McDonald](https://www.cdm.depaul.edu/Faculty-and-Staff/pages/faculty-info.aspx?fid=643/)
-- DePaul University, College of Computing and Digital Media (CDM)
+[Dr. John McDonald](https://www.cdm.depaul.edu/Faculty-and-Staff/pages/faculty-info.aspx?fid=643/), DePaul University, College of Computing and Digital Media (CDM)
 
 [The American Sign Language Avatar Project at DePaul](http://asl.cs.depaul.edu/)
 
