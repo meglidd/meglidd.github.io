@@ -23,9 +23,10 @@ title: DREAM Project Site
 
 ## About My Project
 
-**Visualizing the distribution of the Neutral Position **
+**Visualizing the distribution of the Neutral Position**
 
 A B S T R A C T
+
 ...coming soon
 
 ## My Blog
