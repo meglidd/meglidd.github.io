@@ -23,11 +23,9 @@ title: DREAM Project Site
 
 ## About My Project
 
-**Visualizing the distribution of the Neutral Position**
+**Visualizing the Distribution of the Neutral Position**
 
-A B S T R A C T
-
-...coming soon
+To first learn how to work with OpenPose and its data output, I will apply OpenPose to ASL Avatar Paula to create a motion trace on her wrist. I will do this using a heatmap approach to show what locations (in 2D) are most likely to be occupied. From here, with OpenPose data from the DGS-Korpus at the University of Hamburg, I will process + analyze the location results through graph visualizations, looking for significant distributions of the Neutral Position. 
 
 ## My Blog
 
