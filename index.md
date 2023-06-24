@@ -23,14 +23,10 @@ title: DREAM Project Site
 
 ## About My Project
 
-**Analyzing Transition Time Between Category Bigrams in American Sign Language**
+**Visualizing the distribution of the Neutral Position **
 
 A B S T R A C T
-
-To enhance the legibility and naturalness of sign language avatars, we look to answer if the function of a sign has an impact on the transition time between signs in American Sign Language. Categorizing the signs into the categories of lexical items, gesture, classifier, index, and fingerspelling, we compare the time between the transition of, for example, a gesture to a classifier. Using data from the Boston Corpus, we explore the transition time between categories and the relationship between category bigrams. We take a broad approach that does not rely on sentences or sentence structure. This paper describes our data, process, and observations. Though more data is needed for definitive conclusions, we observe that the mean transition time between category bigrams is statistically different based on which categories are in the bigram. We observe that lexical items and lexical-to-lexical bigrams occur much more frequently than the other categories and bigrams. All the participants share the same median transition time for lexical-to-lexical items. Furthermore, we observe a potential relationship between category bigrams across three different participants. With further study and evidence, this information will inform the transition time for our sign language avatar. 
-
-
-[My Final Report](files/finalreport.pdf)
+...coming soon
 
 ## My Blog
 
